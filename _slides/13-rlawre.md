@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+## Spiderduck is here!
 
-![catstello](https://octodex.github.com/images/catstello.png)
+![catstello](https://avatars.githubusercontent.com/u/18549478?v=4)
 {: .center}
